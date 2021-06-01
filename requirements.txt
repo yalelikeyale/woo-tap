@@ -19,6 +19,6 @@ simplejson==3.11.1
 singer-python==5.0.15
 six==1.11.0
 target-stitch==1.7.3
-urllib3==1.22
+urllib3==1.26.5
 -e git+https://github.com/yalelikeyale/woo-tap.git@9e46ad9e96068576b7495b34a5bc5ada97344675#egg=woo_tap
 wrapt==1.10.11
